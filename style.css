@@ -1,5 +1,6 @@
 body {
     font-family: 'Poppins', sans-serif;
+    background-color: #f0ece8;
 }
 
 
@@ -11,11 +12,28 @@ body {
     right: 0;
     bottom: 0;
     left: 0;
-    background-color: black;
+    background-color: #000000;
     opacity: .7;
     border-radius: 5px;
 }
 
 .join-section-bg {
     background-color: #289BDE;
+}
+
+.company {
+    margin-bottom: 50px;
+}
+
+footer {
+    margin-top: 150px;
+}
+
+.bg-footer {
+    background-color: #161616;
+}
+
+.footer-address h6 {
+    font-size: 12.5px;
+    color: #faebd7;
 }
